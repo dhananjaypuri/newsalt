@@ -1,1 +1,2 @@
 This is file3
+This line 2 in file 3
